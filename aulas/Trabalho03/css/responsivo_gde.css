@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+header a.logo {
+    display: block;
+    position: absolute;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 200px;
+    background-image: url(../images/logo-200.png);
+    top: auto;
+    left: auto;
+}
+
+header {
+height: 150px;
+background-image: url(../images/header-980.jpg);
+}
+
+nav a {
+color: #C68831;
+text-transform: uppercase; 
+text-decoration: none;
+font-weight: bold;
+font-size: .9em;
+display: inline;
+margin-right: 10px;
+}
+
+nav a:hover { color: #FFF; }
+
+nav {
+background-color: #486184;
+text-align: center;
+}
+
+article { padding: 60px 20px 10px 20px; }
+
+.destaque h2 { padding: 60px 20px 10px 110px; }
+.destaque p { padding: 10px 5px 10px 10px; }
