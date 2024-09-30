@@ -1,0 +1,41 @@
+@charset 'UTF-8';
+
+header {
+    background-color: #F22294;
+}
+
+footer {
+    background-color: #5F50BF;
+}
+
+article {
+    background-color: #4878D9;
+}
+
+section {
+    background-color: #56BF66;
+}
+
+aside {
+    background-color: #F2E422;
+}
+
+header, footer, article, section, aside {
+    padding: 2em;
+}
+
+.aside {
+    text-align: justify;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+}
+
+li {
+    padding: 10px;
+}
