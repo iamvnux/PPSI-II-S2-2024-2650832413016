@@ -1,4 +1,5 @@
 Lívia Ferreira Dias 
+liviasdias12@gmail.com
 [iamvnux](https://github.com/iamvnux)
 2650832413016 
 Os arquivos do professor estão organizados de uma maneira que não faz mais muito sentido. Eles
