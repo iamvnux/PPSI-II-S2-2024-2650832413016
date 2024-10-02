@@ -1,7 +1,11 @@
-Lívia Ferreira Dias 
-liviasdias12@gmail.com
-[iamvnux](https://github.com/iamvnux)
-2650832413016 
+# TRABALHO [TRABALHO_03]
+
+**Nome**: Lívia Ferreira Dias 
+**Email**: liviasdias12@gmail.com
+**GitHub ID**:iamvnux[https://github.com/iamvnux] 
+**R.A.**: 2650832413016 
+
+**Descrição do trabalho**:
 Os arquivos do professor estão organizados de uma maneira que não faz mais muito sentido. Eles
 priorizam a carga do CSS grande no lugar do CSS para celular. Isso não condiz com a lógica do
 crescimento do uso de celulares e tablets frente a queda no uso de computadores para acessar a
