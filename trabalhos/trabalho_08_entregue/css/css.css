@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+
+
+footer a {
+    color: #ccc;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    color: #fff;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #ffffff;
+}
+.nav-footer img {
+    margin-left: 10px;
+}
+
+.instagram { color: rgb(81,127,237); }
+.youtube { color: rgb(187,0,0); }
+.bluesky { color: rgb(0, 52, 100); }
+.twitter { color: rgb(0,172,237); }
+.flickr { color: rgb(255,0,132); }
+.linkedin { color: rgb(0,123,182); }
+.facebook { color: rgb(59,89,152); }
+.twitch { color: rgb(100, 65, 165); }
+
+
+@media (max-width: 700px) {
+
+footer {
+    display: flex;
+    flex-direction: column;
+}
+
+footer nav {
+    margin: 0;
+    padding: 10px 0;
+}
+
+.nav-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footer {padding: 0 5px;}
+
+}
+
+.col-md-4 {
+    background-color: #f0f0f0;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-align: justify;
+}
+  
+.col-lg-4 {
+    background-color: #f0f0f0;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-align: justify;
+}
+
+.col-lg-8 {
+    background-color: #f0f0f0;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+}
+
